@@ -1,0 +1,52 @@
+Brief Description : The requirement of the project is for maintaining the 400 + pdf files and audio files.
+
+
+
+The project is  having two main parts: 
+
+1.	first one is the front end or website part. It contains following files :
+
+		Folder Name    : public_html/sadagopannew
+		
+ 		The main url is http://www.sadagopan.org/sadagopannew/index.php
+						http://www.sadagopan.org/sadagopannew/aboutus.php
+						http://www.sadagopan.org/sadagopannew/booksbyname.php
+						http://www.sadagopan.org/sadagopannew/booksbycategory.php
+						http://www.sadagopan.org/sadagopannew/listaudiofiles.php
+						http://www.sadagopan.org/sadagopannew/signguestbook.php
+						http://www.sadagopan.org/sadagopannew/viewguestbook.php
+						http://www.sadagopan.org/sadagopannew/contact.php
+						http://www.sadagopan.org/sadagopannew/searchfile.php
+						http://www.sadagopan.org/sadagopannew/viewpdf.php
+					
+					
+2.  Second one is the back end or admin part. It contains following files :
+
+		Folder Name 	: public_html/sadagopannew/admin/
+		
+		The main url is http://www.sadagopan.org/sadagopannew/admin/login.php
+						http://www.sadagopan.org/sadagopannew/admin/uploadfile.php
+						http://www.sadagopan.org/sadagopannew/admin/uploadaudiofile.php
+						
+						http://www.sadagopan.org/sadagopannew/admin/editdeletefile.php
+						http://www.sadagopan.org/sadagopannew/admin/editfiledata.php
+						http://www.sadagopan.org/sadagopannew/admin/deletefiledata.php
+						
+						http://www.sadagopan.org/sadagopannew/admin/editdeleteaudiofile.php
+						http://www.sadagopan.org/sadagopannew/admin/editaudiofiledata.php
+						http://www.sadagopan.org/sadagopannew/admin/deleteaudiofiledata.php
+						
+						http://www.sadagopan.org/sadagopannew/admin/viewguestbookremarks.php
+						http://www.sadagopan.org/sadagopannew/admin/deleteremarks.php
+						
+						http://www.sadagopan.org/sadagopannew/admin/logout.php
+						
+						
+
+						
+						
+						
+						
+						
+						
+			

@@ -1,0 +1,22 @@
+RewriteEngine on
+RewriteRule  sadagopannew 	  index.php  
+RewriteRule  Home 		  index.php   
+RewriteRule  AlphabeticalBookList booksbyname.php   
+RewriteRule  CategoryBookList     booksbycategory.php
+RewriteRule  AudioFileList        listaudiofile.php
+RewriteRule  SignGuestBook        signguestbook.php
+RewriteRule  ViewGuestBook        viewguestbook.php
+RewriteRule  ContactUs            contact.php  
+RewriteRule  QuickSearch          quicksearch.php
+RewriteRule  SearchBySeries       seriessearch.php
+RewriteRule  SearchByTitle        titlesearch.php      
+RewriteRule  PDFViewer            viewpdf.php
+RewriteRule  SignGuestBook        signguestbook.php
+RewriteRule  ViewGuestBook        viewguestbook.php
+RewriteRule  ViewAudioPDF         viewaudiopdf.php
+RewriteRule  AboutTheFounder      aboutus.php
+RewriteRule  DomainSearch         searchfile.php
+RewriteRule  FAQ                  faqs.php
+RewriteCond %{HTTPS} off
+RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI}
+     

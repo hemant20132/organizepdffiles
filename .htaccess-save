@@ -1,0 +1,8 @@
+RewriteEngine on
+RewriteRule  Home index.php   
+RewriteRule  AlphabeticalBookList booksbyname.php   
+RewriteRule  CategoryBookList booksbycategory.php
+RewriteRule  AudioFileList listaudiofile.php
+RewriteRule  SignGuestBook signguestbook.php
+RewriteRule  ViewGuestBook viewguestbook.php
+RewriteRule  ContactUs contact.php   

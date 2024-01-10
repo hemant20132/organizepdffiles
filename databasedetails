@@ -1,0 +1,5 @@
+	public $host = 'localhost';
+	public $user = 'sadagopa_user';
+	public $password = 'Ramanuja10';
+	public $db = 'sadagopa_website';
+	

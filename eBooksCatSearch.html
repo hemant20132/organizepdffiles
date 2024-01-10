@@ -1,0 +1,270 @@
+<!doctype html>
+<html>
+<head>
+<title>Search eBooks by Category</title>
+<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet" />
+<link href="css/custom.css" rel="stylesheet" />
+<style type="text/css">
+</style>
+</head>
+<body>
+<div class="wrapper">
+  <header>
+    <div class="container">
+		<h1 class="col-lg-9">Select eBooks by Category</h1>
+    </div>
+  </header>
+  <div class="container">
+  <form name="form1" class="form form-horizontal" accept-charset=utf-8>
+    <div class="form-group">
+		<table align="right">
+		<tr><td colspan="10" align="right">Select Category first, then Sub-Category and click on Search
+		</td></tr>
+			<tr>
+			<td> <label for="cat" class="col-sm-2 control-label">Category</label></td>
+			  <td>
+        <select id="cat" name="cat" class="form-control linked-dropdown" data-linked="subcat">
+          <option value="0">-- Select eBooks By --</option>
+          <option value="1">eBook Series</option>
+          <option value="2">Composed by Azhwars</option>
+          <option value="3">Composed by Acharyas</option>
+	      <option value="4">Divya Desam</option>
+          <option value="5">Deity</option>
+          <option value="6">Sampradaya Texts</option>
+          <option value="7">Hymns and Dramas</option>
+          <option value="8">Commentary</option>
+          <option value="9">Language</option>
+		  <option value="10">Miscellaneous</option>
+        </select> </td> 
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			 <td nowrap> <label for="subcat" class="col-sm-2 control-label">Sub-Category</label></td>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+		 <td>
+        <select id="subcat" name="subcat" class="form-control"></select>
+	   </td>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+		<td>		
+		<input id="search1" name="search1" type="submit" value="Search" class="button special" required onClick="GetSelectedItem();"/>
+	    </td>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+	    <td>
+		<input id="reset1" name="reset1" type="reset" value="Reset"  class="button"/>
+		</td>	
+     </tr>
+	 </table>
+</form>
+</div>
+</div>
+ 
+<script src="http://code.jquery.com/jquery.js"></script>
+ 
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+<script> 
+var options = {
+	  subcat: {
+    1:{
+      1:  'Ahobilavalli',
+      2:  'Alamelumanga',
+      3:  'Godha',
+      4:  'Sri Hayagrivan',
+      5:  'Sundarasimham'
+    },
+    2:{
+      6:  'Kulasekhara Azhvar',
+      7:  'Madhurakavi Azhvar',
+      8:  'Mudhal Azhvarkal',
+      9:  'Nammazhvar',
+      10:  'Periyazhvar',
+      11:  'Sri Andal',
+      12:  'Thirmangai Azhvar',
+      13:  'Thirumazhisai Azhvar',
+      14:  'Thiruppanazhvar',
+      15:  'Thondaradipodi Azhvar'
+    },
+    3 :{
+      16:  'Kuresar',
+      17:  'Ramanujar',
+      18:  'Swamy Desikan',
+      19:  'Venkatadvari Kavi ',
+      20:  'Others'
+    },
+	4 :{		
+      21:  'Ahobilam',
+      22:  'Kanchipuram',
+      23:  'Naimisaranyam',
+      24:  'Srirangam',
+      25:  'Thiru Arimeya Vinnagaram',
+      26:  'Thirukkadalmallai',
+      27:  'Thirukkadithanam',
+      28:  'Thirukkatkarai',
+      29:  'Thirukkavalampadi',
+      30:  'Thirukkoshtiyur',
+      31:  'Thirukkudal',
+      32:  'Thirukkudanthai',
+      33:  'Thirumala',
+      34:  'Thirumalirumcholai',
+      35:  'Thirumanikudam',
+      36:  'Thirumanimadakudam',
+      37:  'Thirumuzhikalam',
+      38:  'Thirunavai',
+      39:  'Thirunirmalai',
+      40:  'Thirupparthanpalli',
+      41:  'Thiruppuliyur',
+      42:  'Thiruppullambhuthankudi',
+      43:  'Thiruppullani',
+      44:  'Thiru Semponsei koil',
+      45:  'Thiru Thevanar Thogai',
+      46:  'Thiruvahindrapuram',
+      47:  'Thiruvallavazh',
+      48:  'Thiruvallur',
+      49:  'Thiruvananthapuram',
+      50:  'ThiruvanPurudothamam',
+      51:  'Thiruvanvandoor',
+      52:  'Thiruvaranvila',
+      53:  'Thiruvataru',
+      54:  'Thiruvellakulam',
+      55:  'Thiruvellarai',
+      56:  'Thiuru Therriyambalam',
+      57:  'Thiuruvaikuntha Vinnagaram'
+    },
+    5 :{
+      58:  'Acharyas',
+      59:  'Azhagiya Singars',
+      60:  'Garuda',
+      61:  'Hanuman',
+      62:  'Hayagriva',
+      63:  'HH 1st Azhagiya Singar',
+      64:  'Krishna',
+      65:  'Krishna & Rama',
+      66:  'Lakshmi',
+      67:  'Lakshmi Narasimha',
+      68:  'Nammazhvar',
+      69:  'Navagraha',
+      70:  'Rama',
+      71:  'Ramanuja',
+      72:  'Srinivasa',
+      73:  'Sudarsana',
+      74:  'Surya',
+      75:  'Swami Desikan',
+      76:  'Vishnu'
+    },
+	6 :{
+      77:  'Agama',
+      78:  'Anushtana',
+      79:  'Grantha',
+      80:  'Mantra',
+      81:  'Philosophy',
+      82:  'Rahasya',
+      83:  'Tantra',
+      84:  'Upanishad',
+      85:  'Vedas'
+	},
+	7 :{
+      86:  'Ashta Prabandam',
+      87:  'Desika Prabandam',
+      88:  'Divya Prabandham',
+      89:  'Ithihasam',
+      90:  'Kavyam',
+      91:  'Natakam',
+      92:  'Puranam'
+    },	
+	8 :{
+      93:  'Anbil Sowmyanarayana',
+      94:  'CG Balaji',
+      95:  'Dileepan Parthasarathy',
+      96:  'Dr.K.Ranganathan',
+      97:  'HH 44th pattam AS',
+      98:  'K.Sadgopan Iyengar',
+      99:  'L. Sridhar',
+     100:  'M.G.Vasudevan',
+     101:  'Mukund Srinivasan',
+     102:  'N.Krishnamachari',
+     103:  'Neduntheru Kannan',
+     104:  'Nelvoy Swamy',
+     105:  'Perukaranai Swami',
+     106:  'Prof.V.Kannan',
+     107:  'Pudukkottai ASR',
+     108:  'Ramakrishna Dikshitulu',
+     109:  'Saroja Ramanujam',
+     110:  'Srihari Parthasarathy',
+     111:  'Srikainkarya Swamy',
+     112:  'Srikrishna Tatachar',
+     113:  'V.Madhavakannan',
+     114:  'V.Sadagopan',
+     115:  'V.Sadagopan & K.Sridharan',
+     116:  'V.Sadagopan & Smt Geetha Anand',
+     117:  'V.Sadagopan & Smt K.Kalyani',
+     118:  'V.Sadagopan & V.Varadarajan'
+    },	
+	9 :{
+      119:  'English',
+      120:  'Sanskrit',
+      121:  'Tamil',
+      122:  'Telugu'
+    },	
+	10 :{
+     123: 'Variouis'
+    }
+  }
+};
+ 
+$(function() {
+  $('.linked-dropdown').change(function() {
+    // GET THE id OF THE NEXT DROPDOWN
+    // IN THE CHAIN
+    var linked = $(this).data('linked');
+    
+    // CREATE THE SELECTOR
+    var target = '#' + linked;
+  
+    // EMPTY THE TARGET
+    $(target).empty();
+    
+    // EMPTY ALL THE CHILDREN
+    var child = $(target).data('linked');
+    while (child) {
+      $('#' + child).empty();
+      child = $('#' + child).data('linked');
+    }
+      // GET THE SELECTED VALUE
+      var val = $(this).val();
+      // AND USE THIS TO GET THE CORRESPONDING
+      // ARRAY OF OPTIONS
+      opts = options[linked][val];
+    
+      // INSERT THE INSTRUCTION OPTION
+      $(target).append($('<option/>').val('').html('-- Select --'));
+      
+      // LOOP THROUGH THE TARGET OPTIONS AND ADD THEM
+      $.each(opts, function(v,o) {
+        $(target).append($('<option/>').html(o).val(v))
+      });
+  });
+});
+	
+function GetSelectedItem()
+{
+	var e = document.getElementById("cat");
+	var f = document.getElementById("subcat");
+	var eVal = e.options[e.selectedIndex].value; 
+	var eTxt = e.options[e.selectedIndex].text;
+	if(eVal == 0){alert("Please select a Category")}
+	else {
+	var strSel1 = "Category Id is: " + eVal + " and Category Value is: " + eTxt;
+	alert(strSel1);
+	var fVal = f.options[f.selectedIndex].value;
+	alert(fVal);
+	if(fVal < 1){alert("Please select a Sub-category")}
+	else {	
+	var fTxt = f.options[f.selectedIndex].text;
+	var strSel2 = "SubCategory Id is: " + fVal + " and SubCategory Value is: " + fTxt;
+	alert(strSel2);
+	var strSel = strSel1 + "\n" + strSel2;
+	alert (strSel);
+	}
+		}
+} 
+</script>
+</body>
+</html>

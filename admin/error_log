@@ -1,0 +1,936 @@
+[27-Nov-2017 13:56:27 UTC] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 134
+[30-Nov-2017 12:21:49 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 134
+[30-Nov-2017 12:22:07 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[30-Nov-2017 12:22:07 Asia/Calcutta] PHP Notice:  Undefined index: devyadesam in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 48
+[30-Nov-2017 12:22:07 Asia/Calcutta] PHP Notice:  Undefined index: subcategory1 in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 50
+[30-Nov-2017 12:22:07 Asia/Calcutta] PHP Notice:  Undefined index: subcategory2 in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 51
+[30-Nov-2017 12:22:41 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[30-Nov-2017 12:22:41 Asia/Calcutta] PHP Notice:  Undefined index: misc in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 114
+[30-Nov-2017 12:22:41 Asia/Calcutta] PHP Notice:  Undefined index: misc in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 210
+[30-Nov-2017 12:22:42 Asia/Calcutta] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (HY000/2003): Can't connect to MySQL server on 'sql104.epizy.com' (111) in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 247
+[30-Nov-2017 12:22:42 Asia/Calcutta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 248
+[30-Nov-2017 16:47:12 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 134
+[30-Nov-2017 16:47:25 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[30-Nov-2017 16:47:25 Asia/Calcutta] PHP Notice:  Undefined index: devyadesam in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 48
+[30-Nov-2017 16:47:25 Asia/Calcutta] PHP Notice:  Undefined index: subcategory1 in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 50
+[30-Nov-2017 16:47:25 Asia/Calcutta] PHP Notice:  Undefined index: subcategory2 in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 51
+[30-Nov-2017 16:47:49 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[30-Nov-2017 16:47:49 Asia/Calcutta] PHP Notice:  Undefined index: misc in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 114
+[30-Nov-2017 16:47:49 Asia/Calcutta] PHP Notice:  Undefined index: misc in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 210
+[30-Nov-2017 16:47:50 Asia/Calcutta] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (HY000/2003): Can't connect to MySQL server on 'sql104.epizy.com' (111) in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 247
+[30-Nov-2017 16:47:50 Asia/Calcutta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 248
+[30-Nov-2017 17:05:45 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 134
+[30-Nov-2017 19:58:12 Asia/Calcutta] PHP Notice:  Undefined variable: series in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 76
+[30-Nov-2017 19:58:12 Asia/Calcutta] PHP Notice:  Undefined variable: azhvars in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 85
+[30-Nov-2017 19:58:12 Asia/Calcutta] PHP Notice:  Undefined variable: divyadesam in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 103
+[30-Nov-2017 19:58:12 Asia/Calcutta] PHP Notice:  Undefined variable: deity in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 113
+[30-Nov-2017 19:58:12 Asia/Calcutta] PHP Notice:  Undefined variable: subcategory1 in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 123
+[30-Nov-2017 19:58:12 Asia/Calcutta] PHP Notice:  Use of undefined constant subcategory2 - assumed 'subcategory2' in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 133
+[30-Nov-2017 19:58:12 Asia/Calcutta] PHP Notice:  Undefined variable: misc in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 143
+[30-Nov-2017 19:58:12 Asia/Calcutta] PHP Notice:  Undefined variable: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 153
+[30-Nov-2017 19:58:12 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 159
+[30-Nov-2017 19:58:12 Asia/Calcutta] PHP Notice:  Undefined variable: language in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 162
+[30-Nov-2017 19:59:15 Asia/Calcutta] PHP Notice:  Undefined variable: series in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 76
+[30-Nov-2017 19:59:15 Asia/Calcutta] PHP Notice:  Undefined variable: azhvars in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 85
+[30-Nov-2017 19:59:15 Asia/Calcutta] PHP Notice:  Undefined variable: divyadesam in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 103
+[30-Nov-2017 19:59:15 Asia/Calcutta] PHP Notice:  Undefined variable: deity in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 113
+[30-Nov-2017 19:59:15 Asia/Calcutta] PHP Notice:  Undefined variable: subcategory1 in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 123
+[30-Nov-2017 19:59:15 Asia/Calcutta] PHP Notice:  Use of undefined constant subcategory2 - assumed 'subcategory2' in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 133
+[30-Nov-2017 19:59:15 Asia/Calcutta] PHP Notice:  Undefined variable: misc in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 143
+[30-Nov-2017 19:59:15 Asia/Calcutta] PHP Notice:  Undefined variable: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 153
+[30-Nov-2017 19:59:15 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 159
+[30-Nov-2017 19:59:15 Asia/Calcutta] PHP Notice:  Undefined variable: language in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 162
+[30-Nov-2017 20:08:46 Asia/Calcutta] PHP Notice:  Undefined index: sampradayatexts in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 80
+[30-Nov-2017 20:08:46 Asia/Calcutta] PHP Notice:  Undefined index: hymnsanddramas in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 81
+[30-Nov-2017 20:08:46 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 83
+[30-Nov-2017 20:08:46 Asia/Calcutta] PHP Notice:  Undefined index: sampradayatexts in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 139
+[30-Nov-2017 20:08:46 Asia/Calcutta] PHP Notice:  Use of undefined constant hymnsanddramas - assumed 'hymnsanddramas' in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 143
+[30-Nov-2017 20:08:46 Asia/Calcutta] PHP Notice:  Undefined index: hymnsanddramas in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 149
+[30-Nov-2017 20:08:46 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 169
+[30-Nov-2017 20:10:02 Asia/Calcutta] PHP Notice:  Undefined index: sampradayatexts in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 80
+[30-Nov-2017 20:10:02 Asia/Calcutta] PHP Notice:  Undefined index: hymnsanddramas in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 81
+[30-Nov-2017 20:10:02 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 83
+[30-Nov-2017 20:10:02 Asia/Calcutta] PHP Notice:  Undefined index: sampradayatexts in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 139
+[30-Nov-2017 20:10:02 Asia/Calcutta] PHP Notice:  Use of undefined constant hymnsanddramas - assumed 'hymnsanddramas' in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 143
+[30-Nov-2017 20:10:02 Asia/Calcutta] PHP Notice:  Undefined index: hymnsanddramas in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 149
+[30-Nov-2017 20:10:02 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 169
+[30-Nov-2017 20:10:52 Asia/Calcutta] PHP Notice:  Undefined index: sampradayatexts in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 80
+[30-Nov-2017 20:10:52 Asia/Calcutta] PHP Notice:  Undefined index: hymnsanddramas in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 81
+[30-Nov-2017 20:10:52 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 83
+[30-Nov-2017 20:10:52 Asia/Calcutta] PHP Notice:  Undefined index: sampradayatexts in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 139
+[30-Nov-2017 20:10:52 Asia/Calcutta] PHP Notice:  Use of undefined constant hymnsanddramas - assumed 'hymnsanddramas' in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 143
+[30-Nov-2017 20:10:52 Asia/Calcutta] PHP Notice:  Undefined index: hymnsanddramas in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 149
+[30-Nov-2017 20:10:52 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 169
+[30-Nov-2017 20:20:51 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 83
+[30-Nov-2017 20:20:51 Asia/Calcutta] PHP Notice:  Use of undefined constant hymnsanddramas - assumed 'hymnsanddramas' in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 143
+[30-Nov-2017 20:20:51 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 169
+[01-Dec-2017 08:46:42 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 83
+[01-Dec-2017 08:46:42 Asia/Calcutta] PHP Notice:  Use of undefined constant hymnsanddramas - assumed 'hymnsanddramas' in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 143
+[01-Dec-2017 08:46:42 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 169
+[01-Dec-2017 08:50:10 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 83
+[01-Dec-2017 08:50:10 Asia/Calcutta] PHP Notice:  Use of undefined constant hymnsanddramas - assumed 'hymnsanddramas' in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 143
+[01-Dec-2017 08:50:10 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 169
+[01-Dec-2017 08:51:16 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 83
+[01-Dec-2017 08:51:16 Asia/Calcutta] PHP Notice:  Use of undefined constant hymnsanddramas - assumed 'hymnsanddramas' in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 143
+[01-Dec-2017 08:51:16 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 169
+[01-Dec-2017 08:51:58 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 83
+[01-Dec-2017 08:51:58 Asia/Calcutta] PHP Notice:  Use of undefined constant hymnsanddramas - assumed 'hymnsanddramas' in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 143
+[01-Dec-2017 08:51:58 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 169
+[01-Dec-2017 08:52:40 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 83
+[01-Dec-2017 08:52:40 Asia/Calcutta] PHP Notice:  Use of undefined constant hymnsanddramas - assumed 'hymnsanddramas' in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 143
+[01-Dec-2017 08:52:40 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 169
+[01-Dec-2017 08:55:13 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 83
+[01-Dec-2017 08:55:13 Asia/Calcutta] PHP Notice:  Use of undefined constant hymnsanddramas - assumed 'hymnsanddramas' in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 143
+[01-Dec-2017 08:55:13 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 169
+[01-Dec-2017 08:57:25 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 83
+[01-Dec-2017 08:57:25 Asia/Calcutta] PHP Notice:  Use of undefined constant hymnsanddramas - assumed 'hymnsanddramas' in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 143
+[01-Dec-2017 08:57:25 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 169
+[01-Dec-2017 08:58:09 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 83
+[01-Dec-2017 08:58:09 Asia/Calcutta] PHP Notice:  Use of undefined constant hymnsanddramas - assumed 'hymnsanddramas' in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 143
+[01-Dec-2017 08:58:09 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 169
+[01-Dec-2017 08:58:53 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 83
+[01-Dec-2017 08:58:53 Asia/Calcutta] PHP Notice:  Use of undefined constant hymnsanddramas - assumed 'hymnsanddramas' in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 143
+[01-Dec-2017 08:58:53 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 169
+[01-Dec-2017 09:00:24 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 83
+[01-Dec-2017 09:00:24 Asia/Calcutta] PHP Notice:  Use of undefined constant hymnsanddramas - assumed 'hymnsanddramas' in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 143
+[01-Dec-2017 09:00:24 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 169
+[01-Dec-2017 09:01:55 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 83
+[01-Dec-2017 09:01:55 Asia/Calcutta] PHP Notice:  Use of undefined constant hymnsanddramas - assumed 'hymnsanddramas' in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 143
+[01-Dec-2017 09:01:55 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 169
+[01-Dec-2017 09:04:03 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 83
+[01-Dec-2017 09:04:03 Asia/Calcutta] PHP Notice:  Use of undefined constant hymnsanddramas - assumed 'hymnsanddramas' in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 143
+[01-Dec-2017 09:04:03 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 169
+[01-Dec-2017 09:13:13 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 83
+[01-Dec-2017 09:13:13 Asia/Calcutta] PHP Notice:  Use of undefined constant hymnsanddramas - assumed 'hymnsanddramas' in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 143
+[01-Dec-2017 09:13:13 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 169
+[01-Dec-2017 09:16:27 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 83
+[01-Dec-2017 09:16:27 Asia/Calcutta] PHP Notice:  Use of undefined constant hymnsanddramas - assumed 'hymnsanddramas' in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 143
+[01-Dec-2017 09:16:27 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 169
+[01-Dec-2017 09:29:33 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 83
+[01-Dec-2017 09:29:33 Asia/Calcutta] PHP Notice:  Use of undefined constant hymnsanddramas - assumed 'hymnsanddramas' in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 143
+[01-Dec-2017 09:29:33 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 169
+[01-Dec-2017 09:31:25 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 83
+[01-Dec-2017 09:31:25 Asia/Calcutta] PHP Notice:  Use of undefined constant hymnsanddramas - assumed 'hymnsanddramas' in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 143
+[01-Dec-2017 09:31:25 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 169
+[01-Dec-2017 09:32:06 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 83
+[01-Dec-2017 09:32:06 Asia/Calcutta] PHP Notice:  Use of undefined constant hymnsanddramas - assumed 'hymnsanddramas' in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 143
+[01-Dec-2017 09:32:06 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 169
+[01-Dec-2017 09:40:07 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 134
+[01-Dec-2017 09:41:10 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[01-Dec-2017 09:41:10 Asia/Calcutta] PHP Notice:  Undefined index: devyadesam in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 48
+[01-Dec-2017 09:41:10 Asia/Calcutta] PHP Notice:  Undefined index: subcategory1 in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 50
+[01-Dec-2017 09:41:10 Asia/Calcutta] PHP Notice:  Undefined index: subcategory2 in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 51
+[01-Dec-2017 09:43:07 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[01-Dec-2017 09:43:07 Asia/Calcutta] PHP Notice:  Undefined index: devyadesam in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 48
+[01-Dec-2017 09:43:07 Asia/Calcutta] PHP Notice:  Undefined index: subcategory1 in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 50
+[01-Dec-2017 09:43:07 Asia/Calcutta] PHP Notice:  Undefined index: subcategory2 in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 51
+[01-Dec-2017 09:44:19 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[01-Dec-2017 09:44:19 Asia/Calcutta] PHP Notice:  Undefined index: devyadesam in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 48
+[01-Dec-2017 09:44:19 Asia/Calcutta] PHP Notice:  Undefined index: subcategory1 in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 50
+[01-Dec-2017 09:44:19 Asia/Calcutta] PHP Notice:  Undefined index: subcategory2 in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 51
+[01-Dec-2017 09:44:31 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 134
+[01-Dec-2017 09:46:05 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 134
+[01-Dec-2017 09:46:18 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[01-Dec-2017 09:46:18 Asia/Calcutta] PHP Notice:  Undefined index: devyadesam in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 48
+[01-Dec-2017 09:46:18 Asia/Calcutta] PHP Notice:  Undefined index: subcategory1 in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 50
+[01-Dec-2017 09:46:18 Asia/Calcutta] PHP Notice:  Undefined index: subcategory2 in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 51
+[01-Dec-2017 09:46:59 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[01-Dec-2017 09:46:59 Asia/Calcutta] PHP Notice:  Undefined index: devyadesam in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 48
+[01-Dec-2017 09:46:59 Asia/Calcutta] PHP Notice:  Undefined index: subcategory1 in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 50
+[01-Dec-2017 09:46:59 Asia/Calcutta] PHP Notice:  Undefined index: subcategory2 in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 51
+[01-Dec-2017 09:47:06 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 134
+[01-Dec-2017 09:48:23 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 134
+[01-Dec-2017 09:50:08 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 134
+[01-Dec-2017 09:51:25 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 134
+[01-Dec-2017 09:52:32 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[01-Dec-2017 09:52:32 Asia/Calcutta] PHP Notice:  Undefined index: devyadesam in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 48
+[01-Dec-2017 09:52:32 Asia/Calcutta] PHP Notice:  Undefined index: subcategory1 in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 50
+[01-Dec-2017 09:52:32 Asia/Calcutta] PHP Notice:  Undefined index: subcategory2 in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 51
+[01-Dec-2017 09:58:15 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 134
+[01-Dec-2017 09:59:10 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 134
+[01-Dec-2017 10:00:05 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[01-Dec-2017 10:00:05 Asia/Calcutta] PHP Notice:  Undefined index: devyadesam in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 48
+[01-Dec-2017 10:00:05 Asia/Calcutta] PHP Notice:  Undefined index: subcategory1 in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 50
+[01-Dec-2017 10:00:05 Asia/Calcutta] PHP Notice:  Undefined index: subcategory2 in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 51
+[01-Dec-2017 10:00:24 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[01-Dec-2017 10:00:24 Asia/Calcutta] PHP Notice:  Undefined index: misc in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 114
+[01-Dec-2017 10:00:24 Asia/Calcutta] PHP Notice:  Undefined index: misc in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 210
+[01-Dec-2017 10:00:25 Asia/Calcutta] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (HY000/2003): Can't connect to MySQL server on 'sql104.epizy.com' (111) in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 247
+[01-Dec-2017 10:00:25 Asia/Calcutta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 248
+[01-Dec-2017 10:04:05 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[01-Dec-2017 10:04:05 Asia/Calcutta] PHP Notice:  Undefined index: misc in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 114
+[01-Dec-2017 10:04:05 Asia/Calcutta] PHP Notice:  Undefined index: misc in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 210
+[01-Dec-2017 10:04:05 Asia/Calcutta] PHP Notice:  Undefined variable: conn in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 247
+[01-Dec-2017 10:04:05 Asia/Calcutta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 247
+[01-Dec-2017 10:04:16 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[01-Dec-2017 10:04:16 Asia/Calcutta] PHP Notice:  Undefined index: misc in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 114
+[01-Dec-2017 10:04:16 Asia/Calcutta] PHP Notice:  Undefined index: misc in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 210
+[01-Dec-2017 10:04:16 Asia/Calcutta] PHP Notice:  Undefined variable: conn in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 247
+[01-Dec-2017 10:04:16 Asia/Calcutta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 247
+[01-Dec-2017 10:06:47 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[01-Dec-2017 10:06:47 Asia/Calcutta] PHP Notice:  Undefined index: misc in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 114
+[01-Dec-2017 10:06:47 Asia/Calcutta] PHP Notice:  Undefined index: misc in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 210
+[01-Dec-2017 10:06:47 Asia/Calcutta] PHP Notice:  Undefined variable: conn in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 247
+[01-Dec-2017 10:06:47 Asia/Calcutta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 247
+[01-Dec-2017 10:07:26 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[01-Dec-2017 10:07:26 Asia/Calcutta] PHP Notice:  Undefined index: misc in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 114
+[01-Dec-2017 10:07:26 Asia/Calcutta] PHP Notice:  Undefined index: misc in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 210
+[01-Dec-2017 10:07:26 Asia/Calcutta] PHP Notice:  Undefined variable: conn in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 247
+[01-Dec-2017 10:07:26 Asia/Calcutta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 247
+[01-Dec-2017 10:08:31 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[01-Dec-2017 10:08:31 Asia/Calcutta] PHP Notice:  Undefined index: sampradayatexts in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 112
+[01-Dec-2017 10:08:31 Asia/Calcutta] PHP Notice:  Undefined index: hymnsanddramas in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 113
+[01-Dec-2017 10:08:31 Asia/Calcutta] PHP Notice:  Undefined index: misc in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 114
+[01-Dec-2017 10:08:31 Asia/Calcutta] PHP Notice:  Undefined index: sampradayatexts in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 190
+[01-Dec-2017 10:08:31 Asia/Calcutta] PHP Notice:  Undefined index: hymnsanddramas in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 200
+[01-Dec-2017 10:08:31 Asia/Calcutta] PHP Notice:  Undefined index: misc in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 210
+[01-Dec-2017 10:08:31 Asia/Calcutta] PHP Notice:  Undefined variable: conn in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 247
+[01-Dec-2017 10:08:31 Asia/Calcutta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 247
+[01-Dec-2017 10:08:48 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[01-Dec-2017 10:08:48 Asia/Calcutta] PHP Notice:  Undefined index: misc in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 114
+[01-Dec-2017 10:08:48 Asia/Calcutta] PHP Notice:  Undefined index: misc in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 210
+[01-Dec-2017 10:08:48 Asia/Calcutta] PHP Notice:  Undefined variable: conn in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 247
+[01-Dec-2017 10:08:48 Asia/Calcutta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 247
+[01-Dec-2017 10:09:02 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 134
+[01-Dec-2017 10:10:29 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[01-Dec-2017 10:11:18 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[01-Dec-2017 10:11:18 Asia/Calcutta] PHP Notice:  Undefined index: devyadesam in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 48
+[01-Dec-2017 10:11:26 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[01-Dec-2017 10:11:26 Asia/Calcutta] PHP Notice:  Undefined index: misc in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 114
+[01-Dec-2017 10:11:26 Asia/Calcutta] PHP Notice:  Undefined index: misc in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 210
+[01-Dec-2017 10:11:26 Asia/Calcutta] PHP Notice:  Undefined variable: conn in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 247
+[01-Dec-2017 10:11:26 Asia/Calcutta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 247
+[01-Dec-2017 10:12:14 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[01-Dec-2017 10:12:14 Asia/Calcutta] PHP Notice:  Undefined index: misc in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 114
+[01-Dec-2017 10:12:14 Asia/Calcutta] PHP Notice:  Undefined index: misc in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 210
+[01-Dec-2017 10:12:14 Asia/Calcutta] PHP Notice:  Undefined variable: conn in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 247
+[01-Dec-2017 10:12:14 Asia/Calcutta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 247
+[01-Dec-2017 10:13:57 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[01-Dec-2017 10:14:12 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[01-Dec-2017 10:14:12 Asia/Calcutta] PHP Notice:  Undefined index: devyadesam in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 48
+[01-Dec-2017 10:14:20 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[01-Dec-2017 10:14:20 Asia/Calcutta] PHP Notice:  Undefined index: misc in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 114
+[01-Dec-2017 10:14:20 Asia/Calcutta] PHP Notice:  Undefined index: misc in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 210
+[01-Dec-2017 10:14:20 Asia/Calcutta] PHP Notice:  Undefined variable: conn in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 246
+[01-Dec-2017 10:14:20 Asia/Calcutta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 246
+[01-Dec-2017 10:16:39 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[01-Dec-2017 10:16:39 Asia/Calcutta] PHP Notice:  Undefined index: misc in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 114
+[01-Dec-2017 10:16:39 Asia/Calcutta] PHP Notice:  Undefined index: misc in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 210
+[01-Dec-2017 10:16:39 Asia/Calcutta] PHP Notice:  Undefined variable: conn in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 246
+[01-Dec-2017 10:16:39 Asia/Calcutta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 246
+[01-Dec-2017 10:16:44 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[01-Dec-2017 10:16:44 Asia/Calcutta] PHP Notice:  Undefined variable: conn in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 246
+[01-Dec-2017 10:16:44 Asia/Calcutta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 246
+[01-Dec-2017 10:17:10 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[01-Dec-2017 10:17:10 Asia/Calcutta] PHP Notice:  Undefined variable: conn in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 246
+[01-Dec-2017 10:17:10 Asia/Calcutta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 246
+[01-Dec-2017 10:18:39 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[01-Dec-2017 10:18:46 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[01-Dec-2017 10:18:48 Asia/Calcutta] PHP Notice:  Undefined index: devyadesam in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 48
+[01-Dec-2017 10:18:48 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[01-Dec-2017 10:18:48 Asia/Calcutta] PHP Notice:  Undefined index: devyadesam in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 48
+[01-Dec-2017 10:18:57 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[01-Dec-2017 10:18:57 Asia/Calcutta] PHP Notice:  Undefined variable: conn in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 246
+[01-Dec-2017 10:18:57 Asia/Calcutta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 246
+[01-Dec-2017 10:20:54 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[01-Dec-2017 10:20:54 Asia/Calcutta] PHP Notice:  Undefined variable: conn in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 245
+[01-Dec-2017 10:20:54 Asia/Calcutta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 245
+[01-Dec-2017 10:20:59 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[01-Dec-2017 10:20:59 Asia/Calcutta] PHP Notice:  Undefined variable: conn in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 245
+[01-Dec-2017 10:20:59 Asia/Calcutta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 245
+[01-Dec-2017 10:21:11 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[01-Dec-2017 10:21:22 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[01-Dec-2017 10:21:22 Asia/Calcutta] PHP Notice:  Undefined index: devyadesam in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 48
+[01-Dec-2017 10:21:24 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[01-Dec-2017 10:21:24 Asia/Calcutta] PHP Notice:  Undefined index: devyadesam in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 48
+[01-Dec-2017 10:21:36 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[01-Dec-2017 10:21:36 Asia/Calcutta] PHP Notice:  Undefined variable: conn in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 245
+[01-Dec-2017 10:21:36 Asia/Calcutta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 245
+[01-Dec-2017 10:22:00 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[01-Dec-2017 10:22:11 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[01-Dec-2017 10:22:11 Asia/Calcutta] PHP Notice:  Undefined index: devyadesam in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 48
+[01-Dec-2017 10:22:12 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[01-Dec-2017 10:22:12 Asia/Calcutta] PHP Notice:  Undefined index: devyadesam in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 48
+[01-Dec-2017 10:22:19 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[01-Dec-2017 10:22:19 Asia/Calcutta] PHP Notice:  Undefined variable: conn in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 245
+[01-Dec-2017 10:22:19 Asia/Calcutta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 245
+[01-Dec-2017 10:25:12 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[01-Dec-2017 10:25:19 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[01-Dec-2017 10:25:23 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[01-Dec-2017 10:25:32 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[01-Dec-2017 10:25:32 Asia/Calcutta] PHP Notice:  Undefined index: devyadesam in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 45
+[01-Dec-2017 10:25:37 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[01-Dec-2017 10:25:41 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeleteaudiofile.php on line 132
+[01-Dec-2017 10:29:25 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeleteaudiofile.php on line 128
+[01-Dec-2017 10:29:57 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editaudiofiledata.php on line 26
+[01-Dec-2017 10:30:22 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeleteaudiofile.php on line 128
+[01-Dec-2017 10:30:26 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editaudiofiledata.php on line 26
+[01-Dec-2017 10:34:03 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeleteaudiofile.php on line 128
+[01-Dec-2017 10:34:18 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editaudiofiledata.php on line 26
+[01-Dec-2017 10:36:38 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editaudiofiledata.php on line 26
+[01-Dec-2017 10:38:46 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editaudiofiledata.php on line 26
+[01-Dec-2017 10:39:08 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeleteaudiofile.php on line 128
+[01-Dec-2017 10:39:14 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editaudiofiledata.php on line 26
+[01-Dec-2017 10:39:34 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editaudiofiledata.php on line 26
+[01-Dec-2017 10:40:24 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editaudiofiledata.php on line 26
+[01-Dec-2017 10:40:29 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editaudiofiledata.php on line 26
+[01-Dec-2017 10:40:39 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeleteaudiofile.php on line 128
+[01-Dec-2017 10:40:44 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editaudiofiledata.php on line 26
+[01-Dec-2017 10:40:48 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editaudiofiledata.php on line 26
+[01-Dec-2017 10:41:31 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeleteaudiofile.php on line 128
+[01-Dec-2017 10:41:36 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editaudiofiledata.php on line 26
+[01-Dec-2017 10:42:14 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editaudiofiledata.php on line 26
+[01-Dec-2017 10:42:22 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editaudiofiledata.php on line 26
+[01-Dec-2017 10:42:31 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editaudiofiledata.php on line 26
+[01-Dec-2017 10:43:14 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editaudiofiledata.php on line 26
+[01-Dec-2017 10:43:57 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editaudiofiledata.php on line 26
+[01-Dec-2017 10:48:01 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeleteaudiofile.php on line 128
+[01-Dec-2017 10:48:07 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editaudiofiledata.php on line 26
+[01-Dec-2017 10:48:14 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editaudiofiledata.php on line 26
+[01-Dec-2017 10:48:30 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeleteaudiofile.php on line 128
+[01-Dec-2017 10:55:21 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[01-Dec-2017 11:41:20 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 138
+[01-Dec-2017 17:18:06 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 138
+[01-Dec-2017 17:18:19 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[01-Dec-2017 17:18:20 Asia/Calcutta] PHP Notice:  Undefined index: devyadesam in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 45
+[01-Dec-2017 17:19:08 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[01-Dec-2017 17:20:04 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 138
+[01-Dec-2017 17:20:15 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[01-Dec-2017 17:20:15 Asia/Calcutta] PHP Notice:  Undefined index: devyadesam in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 45
+[01-Dec-2017 17:21:03 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[02-Dec-2017 08:43:02 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 138
+[02-Dec-2017 17:14:33 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 138
+[02-Dec-2017 17:18:48 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 138
+[02-Dec-2017 17:35:31 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 138
+[02-Dec-2017 17:36:03 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[02-Dec-2017 17:36:03 Asia/Calcutta] PHP Notice:  Undefined index: devyadesam in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 45
+[02-Dec-2017 17:52:42 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 138
+[02-Dec-2017 17:56:55 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 138
+[02-Dec-2017 17:57:05 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[02-Dec-2017 18:19:39 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[02-Dec-2017 18:30:55 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[02-Dec-2017 18:30:55 Asia/Calcutta] PHP Notice:  Undefined variable: imagefile in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 503
+[02-Dec-2017 18:31:16 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[02-Dec-2017 18:32:48 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[02-Dec-2017 18:32:48 Asia/Calcutta] PHP Notice:  Undefined index: devyadesam in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 45
+[02-Dec-2017 18:33:04 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[02-Dec-2017 18:33:12 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[02-Dec-2017 18:33:12 Asia/Calcutta] PHP Notice:  Undefined index: devyadesam in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 45
+[02-Dec-2017 18:34:56 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[02-Dec-2017 18:34:56 Asia/Calcutta] PHP Notice:  Undefined variable: imagefile in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 503
+[02-Dec-2017 18:35:08 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[02-Dec-2017 18:35:08 Asia/Calcutta] PHP Notice:  Undefined index: devyadesam in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 45
+[02-Dec-2017 18:35:28 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[02-Dec-2017 18:36:58 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[02-Dec-2017 18:42:22 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[02-Dec-2017 18:54:53 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 83
+[02-Dec-2017 18:54:53 Asia/Calcutta] PHP Notice:  Use of undefined constant hymnsanddramas - assumed 'hymnsanddramas' in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 143
+[02-Dec-2017 18:54:53 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 169
+[02-Dec-2017 18:54:53 Asia/Calcutta] PHP Notice:  Undefined variable: ebookname in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 188
+[02-Dec-2017 19:01:12 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[02-Dec-2017 19:02:53 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 83
+[02-Dec-2017 19:02:53 Asia/Calcutta] PHP Notice:  Use of undefined constant hymnsanddramas - assumed 'hymnsanddramas' in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 143
+[02-Dec-2017 19:02:53 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 169
+[02-Dec-2017 19:04:21 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 83
+[02-Dec-2017 19:04:21 Asia/Calcutta] PHP Notice:  Use of undefined constant hymnsanddramas - assumed 'hymnsanddramas' in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 143
+[02-Dec-2017 19:04:21 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 169
+[02-Dec-2017 19:06:46 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 83
+[02-Dec-2017 19:06:46 Asia/Calcutta] PHP Notice:  Use of undefined constant hymnsanddramas - assumed 'hymnsanddramas' in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 143
+[02-Dec-2017 19:06:46 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 169
+[02-Dec-2017 19:07:37 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[02-Dec-2017 19:09:46 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[02-Dec-2017 19:11:23 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 83
+[02-Dec-2017 19:11:23 Asia/Calcutta] PHP Notice:  Use of undefined constant hymnsanddramas - assumed 'hymnsanddramas' in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 143
+[02-Dec-2017 19:11:23 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 169
+[02-Dec-2017 19:11:47 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[02-Dec-2017 19:18:21 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[02-Dec-2017 19:18:33 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[02-Dec-2017 19:18:33 Asia/Calcutta] PHP Notice:  Undefined index: devyadesam in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 45
+[02-Dec-2017 19:18:49 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[03-Dec-2017 06:00:06 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[03-Dec-2017 13:55:21 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 83
+[03-Dec-2017 13:55:21 Asia/Calcutta] PHP Notice:  Use of undefined constant hymnsanddramas - assumed 'hymnsanddramas' in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 143
+[03-Dec-2017 13:55:21 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 169
+[03-Dec-2017 13:58:43 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 83
+[03-Dec-2017 13:58:43 Asia/Calcutta] PHP Notice:  Use of undefined constant hymnsanddramas - assumed 'hymnsanddramas' in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 143
+[03-Dec-2017 13:58:43 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 169
+[03-Dec-2017 14:00:32 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 83
+[03-Dec-2017 14:00:32 Asia/Calcutta] PHP Notice:  Use of undefined constant hymnsanddramas - assumed 'hymnsanddramas' in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 143
+[03-Dec-2017 14:00:32 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 169
+[03-Dec-2017 14:33:08 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 83
+[03-Dec-2017 14:33:08 Asia/Calcutta] PHP Notice:  Use of undefined constant hymnsanddramas - assumed 'hymnsanddramas' in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 143
+[03-Dec-2017 14:33:08 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 169
+[03-Dec-2017 14:57:48 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[03-Dec-2017 15:08:50 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 83
+[03-Dec-2017 15:08:50 Asia/Calcutta] PHP Notice:  Use of undefined constant hymnsanddramas - assumed 'hymnsanddramas' in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 143
+[03-Dec-2017 15:08:50 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 169
+[03-Dec-2017 15:38:26 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 83
+[03-Dec-2017 15:38:26 Asia/Calcutta] PHP Notice:  Use of undefined constant hymnsanddramas - assumed 'hymnsanddramas' in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 143
+[03-Dec-2017 15:38:26 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 169
+[03-Dec-2017 15:39:10 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 83
+[03-Dec-2017 15:39:10 Asia/Calcutta] PHP Notice:  Use of undefined constant hymnsanddramas - assumed 'hymnsanddramas' in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 143
+[03-Dec-2017 15:39:10 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 169
+[03-Dec-2017 15:47:51 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 83
+[03-Dec-2017 15:47:51 Asia/Calcutta] PHP Notice:  Use of undefined constant hymnsanddramas - assumed 'hymnsanddramas' in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 143
+[03-Dec-2017 15:47:51 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 169
+[03-Dec-2017 15:49:35 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 83
+[03-Dec-2017 15:49:35 Asia/Calcutta] PHP Notice:  Use of undefined constant hymnsanddramas - assumed 'hymnsanddramas' in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 143
+[03-Dec-2017 15:49:35 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 169
+[03-Dec-2017 15:58:34 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 83
+[03-Dec-2017 15:58:34 Asia/Calcutta] PHP Notice:  Use of undefined constant hymnsanddramas - assumed 'hymnsanddramas' in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 143
+[03-Dec-2017 15:58:34 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 169
+[03-Dec-2017 16:00:29 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 83
+[03-Dec-2017 16:00:29 Asia/Calcutta] PHP Notice:  Use of undefined constant hymnsanddramas - assumed 'hymnsanddramas' in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 143
+[03-Dec-2017 16:00:29 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 169
+[03-Dec-2017 16:01:56 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 83
+[03-Dec-2017 16:01:56 Asia/Calcutta] PHP Notice:  Use of undefined constant hymnsanddramas - assumed 'hymnsanddramas' in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 143
+[03-Dec-2017 16:01:56 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 169
+[03-Dec-2017 16:02:22 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 83
+[03-Dec-2017 16:02:22 Asia/Calcutta] PHP Notice:  Use of undefined constant hymnsanddramas - assumed 'hymnsanddramas' in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 143
+[03-Dec-2017 16:02:22 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 169
+[03-Dec-2017 16:04:27 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 83
+[03-Dec-2017 16:04:27 Asia/Calcutta] PHP Notice:  Use of undefined constant hymnsanddramas - assumed 'hymnsanddramas' in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 143
+[03-Dec-2017 16:04:27 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 169
+[03-Dec-2017 16:04:53 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 83
+[03-Dec-2017 16:04:53 Asia/Calcutta] PHP Notice:  Use of undefined constant hymnsanddramas - assumed 'hymnsanddramas' in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 143
+[03-Dec-2017 16:04:53 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 169
+[03-Dec-2017 16:08:19 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[03-Dec-2017 16:16:59 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 83
+[03-Dec-2017 16:16:59 Asia/Calcutta] PHP Notice:  Use of undefined constant hymnsanddramas - assumed 'hymnsanddramas' in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 143
+[03-Dec-2017 16:16:59 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 169
+[03-Dec-2017 16:20:22 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 83
+[03-Dec-2017 16:20:22 Asia/Calcutta] PHP Notice:  Use of undefined constant hymnsanddramas - assumed 'hymnsanddramas' in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 143
+[03-Dec-2017 16:20:22 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 169
+[03-Dec-2017 16:20:51 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 83
+[03-Dec-2017 16:20:51 Asia/Calcutta] PHP Notice:  Use of undefined constant hymnsanddramas - assumed 'hymnsanddramas' in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 143
+[03-Dec-2017 16:20:51 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 169
+[03-Dec-2017 16:27:50 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 83
+[03-Dec-2017 16:27:50 Asia/Calcutta] PHP Notice:  Use of undefined constant hymnsanddramas - assumed 'hymnsanddramas' in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 143
+[03-Dec-2017 16:27:50 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 169
+[03-Dec-2017 16:30:21 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 83
+[03-Dec-2017 16:30:21 Asia/Calcutta] PHP Notice:  Use of undefined constant hymnsanddramas - assumed 'hymnsanddramas' in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 143
+[03-Dec-2017 16:30:21 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 169
+[03-Dec-2017 16:30:58 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 83
+[03-Dec-2017 16:30:58 Asia/Calcutta] PHP Notice:  Use of undefined constant hymnsanddramas - assumed 'hymnsanddramas' in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 143
+[03-Dec-2017 16:30:58 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 169
+[03-Dec-2017 16:31:31 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 83
+[03-Dec-2017 16:31:31 Asia/Calcutta] PHP Notice:  Use of undefined constant hymnsanddramas - assumed 'hymnsanddramas' in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 143
+[03-Dec-2017 16:31:31 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 169
+[03-Dec-2017 17:53:46 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 83
+[03-Dec-2017 17:53:46 Asia/Calcutta] PHP Notice:  Use of undefined constant hymnsanddramas - assumed 'hymnsanddramas' in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 143
+[03-Dec-2017 17:53:46 Asia/Calcutta] PHP Notice:  Undefined index: authorofcommentry in /home/sadagopa/public_html/sadagopannew/admin/uploadfile.php on line 169
+[03-Dec-2017 18:08:13 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[03-Dec-2017 18:13:12 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[03-Dec-2017 18:13:23 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[03-Dec-2017 18:14:50 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[03-Dec-2017 18:14:50 Asia/Calcutta] PHP Notice:  Undefined index: devyadesam in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 45
+[03-Dec-2017 18:15:08 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[03-Dec-2017 18:17:30 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[03-Dec-2017 18:17:30 Asia/Calcutta] PHP Notice:  Undefined index: devyadesam in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 45
+[03-Dec-2017 18:20:47 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[03-Dec-2017 18:20:47 Asia/Calcutta] PHP Notice:  Undefined index: devyadesam in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 45
+[03-Dec-2017 18:21:46 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[03-Dec-2017 18:56:08 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[03-Dec-2017 18:56:18 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[03-Dec-2017 18:56:18 Asia/Calcutta] PHP Notice:  Undefined index: devyadesam in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 45
+[03-Dec-2017 19:01:41 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[03-Dec-2017 19:02:26 Asia/Calcutta] PHP Notice:  Undefined index: srno in /home/sadagopa/public_html/sadagopannew/admin/deletefiledata.php on line 2
+[03-Dec-2017 19:02:26 Asia/Calcutta] PHP Notice:  Use of undefined constant MYSQLI_FETCH_ASSOC - assumed 'MYSQLI_FETCH_ASSOC' in /home/sadagopa/public_html/sadagopannew/admin/deletefiledata.php on line 13
+[03-Dec-2017 19:02:26 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sadagopa/public_html/sadagopannew/admin/deletefiledata.php on line 13
+[03-Dec-2017 19:02:26 Asia/Calcutta] PHP Notice:  Undefined variable: imagefile in /home/sadagopa/public_html/sadagopannew/admin/deletefiledata.php on line 19
+[03-Dec-2017 19:02:26 Asia/Calcutta] PHP Warning:  unlink(/home/sadagopa/public_htmlpdfuploads/) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/sadagopa/public_html/sadagopannew/admin/deletefiledata.php on line 19
+[03-Dec-2017 19:02:26 Asia/Calcutta] PHP Notice:  Undefined variable: filename in /home/sadagopa/public_html/sadagopannew/admin/deletefiledata.php on line 20
+[03-Dec-2017 19:02:26 Asia/Calcutta] PHP Warning:  unlink(/home/sadagopa/public_htmlpdfuploads/) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/sadagopa/public_html/sadagopannew/admin/deletefiledata.php on line 20
+[03-Dec-2017 19:02:41 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[03-Dec-2017 19:02:43 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[03-Dec-2017 19:02:43 Asia/Calcutta] PHP Notice:  Undefined index: devyadesam in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 45
+[03-Dec-2017 19:02:56 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[03-Dec-2017 19:05:34 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeleteaudiofile.php on line 128
+[04-Dec-2017 22:15:29 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[04-Dec-2017 22:15:34 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[04-Dec-2017 22:15:34 Asia/Calcutta] PHP Notice:  Undefined index: devyadesam in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 45
+[04-Dec-2017 22:16:03 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[04-Dec-2017 22:17:09 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[04-Dec-2017 22:17:19 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[04-Dec-2017 22:17:19 Asia/Calcutta] PHP Notice:  Undefined index: devyadesam in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 45
+[04-Dec-2017 22:22:29 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[04-Dec-2017 22:23:00 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[04-Dec-2017 22:23:00 Asia/Calcutta] PHP Notice:  Undefined index: devyadesam in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 45
+[04-Dec-2017 22:23:53 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[04-Dec-2017 22:24:02 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[04-Dec-2017 22:24:02 Asia/Calcutta] PHP Notice:  Undefined index: devyadesam in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 45
+[04-Dec-2017 22:27:59 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[04-Dec-2017 22:32:50 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[04-Dec-2017 22:32:50 Asia/Calcutta] PHP Notice:  Undefined index: devyadesam in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 45
+[04-Dec-2017 22:33:57 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[04-Dec-2017 22:35:45 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[04-Dec-2017 22:37:36 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[04-Dec-2017 22:37:36 Asia/Calcutta] PHP Notice:  Undefined index: devyadesam in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 45
+[04-Dec-2017 22:37:48 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[04-Dec-2017 22:37:53 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[04-Dec-2017 22:38:58 Asia/Calcutta] PHP Notice:  Undefined index: srno in /home/sadagopa/public_html/sadagopannew/admin/deletefiledata.php on line 2
+[04-Dec-2017 22:38:58 Asia/Calcutta] PHP Notice:  Use of undefined constant MYSQLI_FETCH_ASSOC - assumed 'MYSQLI_FETCH_ASSOC' in /home/sadagopa/public_html/sadagopannew/admin/deletefiledata.php on line 13
+[04-Dec-2017 22:38:58 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sadagopa/public_html/sadagopannew/admin/deletefiledata.php on line 13
+[04-Dec-2017 22:38:58 Asia/Calcutta] PHP Notice:  Undefined variable: imagefile in /home/sadagopa/public_html/sadagopannew/admin/deletefiledata.php on line 19
+[04-Dec-2017 22:38:58 Asia/Calcutta] PHP Warning:  unlink(/home/sadagopa/public_htmlpdfuploads/) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/sadagopa/public_html/sadagopannew/admin/deletefiledata.php on line 19
+[04-Dec-2017 22:38:58 Asia/Calcutta] PHP Notice:  Undefined variable: filename in /home/sadagopa/public_html/sadagopannew/admin/deletefiledata.php on line 20
+[04-Dec-2017 22:38:58 Asia/Calcutta] PHP Warning:  unlink(/home/sadagopa/public_htmlpdfuploads/) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/sadagopa/public_html/sadagopannew/admin/deletefiledata.php on line 20
+[04-Dec-2017 22:39:09 Asia/Calcutta] PHP Notice:  Undefined index: srno in /home/sadagopa/public_html/sadagopannew/admin/deletefiledata.php on line 2
+[04-Dec-2017 22:39:09 Asia/Calcutta] PHP Notice:  Use of undefined constant MYSQLI_FETCH_ASSOC - assumed 'MYSQLI_FETCH_ASSOC' in /home/sadagopa/public_html/sadagopannew/admin/deletefiledata.php on line 13
+[04-Dec-2017 22:39:09 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sadagopa/public_html/sadagopannew/admin/deletefiledata.php on line 13
+[04-Dec-2017 22:39:09 Asia/Calcutta] PHP Notice:  Undefined variable: imagefile in /home/sadagopa/public_html/sadagopannew/admin/deletefiledata.php on line 19
+[04-Dec-2017 22:39:09 Asia/Calcutta] PHP Warning:  unlink(/home/sadagopa/public_htmlpdfuploads/) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/sadagopa/public_html/sadagopannew/admin/deletefiledata.php on line 19
+[04-Dec-2017 22:39:09 Asia/Calcutta] PHP Notice:  Undefined variable: filename in /home/sadagopa/public_html/sadagopannew/admin/deletefiledata.php on line 20
+[04-Dec-2017 22:39:09 Asia/Calcutta] PHP Warning:  unlink(/home/sadagopa/public_htmlpdfuploads/) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/sadagopa/public_html/sadagopannew/admin/deletefiledata.php on line 20
+[04-Dec-2017 22:39:13 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[04-Dec-2017 22:41:23 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[04-Dec-2017 22:44:53 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[04-Dec-2017 22:44:53 Asia/Calcutta] PHP Notice:  Undefined index: devyadesam in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 45
+[04-Dec-2017 22:45:23 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[04-Dec-2017 22:49:08 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[04-Dec-2017 22:49:45 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[04-Dec-2017 22:49:45 Asia/Calcutta] PHP Notice:  Undefined index: devyadesam in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 45
+[04-Dec-2017 22:50:07 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[04-Dec-2017 22:56:36 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[04-Dec-2017 22:56:36 Asia/Calcutta] PHP Notice:  Undefined index: devyadesam in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 45
+[04-Dec-2017 22:56:49 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[04-Dec-2017 22:56:59 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[04-Dec-2017 23:02:15 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[04-Dec-2017 23:05:39 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[04-Dec-2017 23:05:39 Asia/Calcutta] PHP Notice:  Undefined index: devyadesam in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 45
+[04-Dec-2017 23:05:57 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[04-Dec-2017 23:06:02 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[04-Dec-2017 23:07:06 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[04-Dec-2017 23:07:06 Asia/Calcutta] PHP Notice:  Undefined index: devyadesam in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 45
+[04-Dec-2017 23:07:17 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[04-Dec-2017 23:07:21 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[04-Dec-2017 23:07:47 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[04-Dec-2017 23:09:37 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[04-Dec-2017 23:09:37 Asia/Calcutta] PHP Notice:  Undefined index: devyadesam in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 45
+[04-Dec-2017 23:09:46 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[04-Dec-2017 23:10:33 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[04-Dec-2017 23:11:11 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[04-Dec-2017 23:11:11 Asia/Calcutta] PHP Notice:  Undefined index: devyadesam in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 45
+[04-Dec-2017 23:11:57 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[05-Dec-2017 11:03:16 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeleteaudiofile.php on line 128
+[05-Dec-2017 11:03:22 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[05-Dec-2017 11:03:40 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[05-Dec-2017 11:06:24 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[05-Dec-2017 11:06:36 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[05-Dec-2017 11:31:26 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[05-Dec-2017 11:59:36 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[05-Dec-2017 11:59:47 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[05-Dec-2017 11:59:47 Asia/Calcutta] PHP Notice:  Undefined index: devyadesam in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 45
+[05-Dec-2017 11:59:58 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[05-Dec-2017 12:00:03 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[05-Dec-2017 12:10:03 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[05-Dec-2017 12:10:03 Asia/Calcutta] PHP Notice:  Undefined index: devyadesam in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 45
+[05-Dec-2017 12:10:13 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[05-Dec-2017 12:10:17 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[05-Dec-2017 12:22:58 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[05-Dec-2017 12:22:58 Asia/Calcutta] PHP Notice:  Undefined index: devyadesam in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 45
+[05-Dec-2017 12:23:07 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[05-Dec-2017 12:23:11 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[05-Dec-2017 12:59:38 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[05-Dec-2017 12:59:50 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[05-Dec-2017 12:59:50 Asia/Calcutta] PHP Notice:  Undefined index: devyadesam in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 45
+[05-Dec-2017 13:00:40 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[05-Dec-2017 13:03:16 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[05-Dec-2017 13:03:25 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[05-Dec-2017 13:03:25 Asia/Calcutta] PHP Notice:  Undefined index: devyadesam in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 45
+[05-Dec-2017 13:03:42 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[05-Dec-2017 13:04:31 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[05-Dec-2017 13:04:49 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[05-Dec-2017 13:04:49 Asia/Calcutta] PHP Notice:  Undefined index: devyadesam in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 45
+[05-Dec-2017 13:05:02 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[05-Dec-2017 13:05:06 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[05-Dec-2017 13:08:13 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[05-Dec-2017 13:08:14 Asia/Calcutta] PHP Notice:  Undefined index: devyadesam in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 45
+[05-Dec-2017 13:08:33 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[05-Dec-2017 13:10:15 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[05-Dec-2017 13:10:33 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[05-Dec-2017 13:10:33 Asia/Calcutta] PHP Notice:  Undefined index: devyadesam in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 45
+[05-Dec-2017 13:10:45 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[05-Dec-2017 13:10:49 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[05-Dec-2017 13:11:43 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[05-Dec-2017 13:11:43 Asia/Calcutta] PHP Notice:  Undefined index: devyadesam in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 45
+[05-Dec-2017 13:11:56 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[05-Dec-2017 13:12:01 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[05-Dec-2017 13:13:09 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[05-Dec-2017 13:13:09 Asia/Calcutta] PHP Notice:  Undefined index: devyadesam in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 45
+[05-Dec-2017 13:13:17 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[05-Dec-2017 13:13:25 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[05-Dec-2017 13:14:04 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[05-Dec-2017 13:14:05 Asia/Calcutta] PHP Notice:  Undefined index: devyadesam in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 45
+[05-Dec-2017 13:14:13 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[05-Dec-2017 13:14:25 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[05-Dec-2017 13:19:05 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[05-Dec-2017 13:19:05 Asia/Calcutta] PHP Notice:  Undefined index: devyadesam in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 45
+[05-Dec-2017 13:19:25 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[05-Dec-2017 13:19:29 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[05-Dec-2017 13:21:41 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[05-Dec-2017 13:21:41 Asia/Calcutta] PHP Notice:  Undefined index: devyadesam in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 45
+[05-Dec-2017 13:21:58 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[05-Dec-2017 13:22:01 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[05-Dec-2017 13:23:26 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[05-Dec-2017 13:23:27 Asia/Calcutta] PHP Notice:  Undefined index: devyadesam in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 45
+[05-Dec-2017 13:23:50 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[05-Dec-2017 13:25:46 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[05-Dec-2017 13:26:06 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[05-Dec-2017 13:26:06 Asia/Calcutta] PHP Notice:  Undefined index: devyadesam in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 45
+[05-Dec-2017 13:26:14 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[07-Dec-2017 10:33:57 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[07-Dec-2017 10:36:37 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[07-Dec-2017 10:37:25 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[07-Dec-2017 10:38:27 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[07-Dec-2017 10:40:19 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[07-Dec-2017 10:40:27 Asia/Calcutta] PHP Notice:  Undefined index: srno in /home/sadagopa/public_html/sadagopannew/admin/deletefiledata.php on line 2
+[07-Dec-2017 10:40:27 Asia/Calcutta] PHP Notice:  Use of undefined constant MYSQLI_FETCH_ASSOC - assumed 'MYSQLI_FETCH_ASSOC' in /home/sadagopa/public_html/sadagopannew/admin/deletefiledata.php on line 13
+[07-Dec-2017 10:40:27 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sadagopa/public_html/sadagopannew/admin/deletefiledata.php on line 13
+[07-Dec-2017 10:40:27 Asia/Calcutta] PHP Notice:  Undefined variable: imagefile in /home/sadagopa/public_html/sadagopannew/admin/deletefiledata.php on line 19
+[07-Dec-2017 10:40:27 Asia/Calcutta] PHP Warning:  unlink(/home/sadagopa/public_htmlpdfuploads/) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/sadagopa/public_html/sadagopannew/admin/deletefiledata.php on line 19
+[07-Dec-2017 10:40:27 Asia/Calcutta] PHP Notice:  Undefined variable: filename in /home/sadagopa/public_html/sadagopannew/admin/deletefiledata.php on line 20
+[07-Dec-2017 10:40:27 Asia/Calcutta] PHP Warning:  unlink(/home/sadagopa/public_htmlpdfuploads/) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/sadagopa/public_html/sadagopannew/admin/deletefiledata.php on line 20
+[07-Dec-2017 10:40:52 Asia/Calcutta] PHP Notice:  Undefined index: srno in /home/sadagopa/public_html/sadagopannew/admin/deletefiledata.php on line 2
+[07-Dec-2017 10:40:52 Asia/Calcutta] PHP Notice:  Use of undefined constant MYSQLI_FETCH_ASSOC - assumed 'MYSQLI_FETCH_ASSOC' in /home/sadagopa/public_html/sadagopannew/admin/deletefiledata.php on line 13
+[07-Dec-2017 10:40:52 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sadagopa/public_html/sadagopannew/admin/deletefiledata.php on line 13
+[07-Dec-2017 10:40:52 Asia/Calcutta] PHP Notice:  Undefined variable: imagefile in /home/sadagopa/public_html/sadagopannew/admin/deletefiledata.php on line 19
+[07-Dec-2017 10:40:52 Asia/Calcutta] PHP Warning:  unlink(/home/sadagopa/public_htmlpdfuploads/) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/sadagopa/public_html/sadagopannew/admin/deletefiledata.php on line 19
+[07-Dec-2017 10:40:52 Asia/Calcutta] PHP Notice:  Undefined variable: filename in /home/sadagopa/public_html/sadagopannew/admin/deletefiledata.php on line 20
+[07-Dec-2017 10:40:52 Asia/Calcutta] PHP Warning:  unlink(/home/sadagopa/public_htmlpdfuploads/) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/sadagopa/public_html/sadagopannew/admin/deletefiledata.php on line 20
+[07-Dec-2017 10:41:03 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[07-Dec-2017 10:41:38 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[07-Dec-2017 10:41:38 Asia/Calcutta] PHP Notice:  Undefined index: devyadesam in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 45
+[07-Dec-2017 10:45:18 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[07-Dec-2017 10:45:28 Asia/Calcutta] PHP Notice:  Undefined index: srno in /home/sadagopa/public_html/sadagopannew/admin/deletefiledata.php on line 2
+[07-Dec-2017 10:45:28 Asia/Calcutta] PHP Notice:  Use of undefined constant MYSQLI_FETCH_ASSOC - assumed 'MYSQLI_FETCH_ASSOC' in /home/sadagopa/public_html/sadagopannew/admin/deletefiledata.php on line 13
+[07-Dec-2017 10:45:28 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sadagopa/public_html/sadagopannew/admin/deletefiledata.php on line 13
+[07-Dec-2017 10:45:28 Asia/Calcutta] PHP Notice:  Undefined variable: imagefile in /home/sadagopa/public_html/sadagopannew/admin/deletefiledata.php on line 19
+[07-Dec-2017 10:45:28 Asia/Calcutta] PHP Warning:  unlink(/home/sadagopa/public_htmlpdfuploads/) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/sadagopa/public_html/sadagopannew/admin/deletefiledata.php on line 19
+[07-Dec-2017 10:45:28 Asia/Calcutta] PHP Notice:  Undefined variable: filename in /home/sadagopa/public_html/sadagopannew/admin/deletefiledata.php on line 20
+[07-Dec-2017 10:45:28 Asia/Calcutta] PHP Warning:  unlink(/home/sadagopa/public_htmlpdfuploads/) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/sadagopa/public_html/sadagopannew/admin/deletefiledata.php on line 20
+[07-Dec-2017 10:47:12 Asia/Calcutta] PHP Notice:  Use of undefined constant MYSQLI_FETCH_ASSOC - assumed 'MYSQLI_FETCH_ASSOC' in /home/sadagopa/public_html/sadagopannew/admin/deletefiledata.php on line 13
+[07-Dec-2017 10:47:12 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sadagopa/public_html/sadagopannew/admin/deletefiledata.php on line 13
+[07-Dec-2017 10:47:12 Asia/Calcutta] PHP Notice:  Undefined variable: imagefile in /home/sadagopa/public_html/sadagopannew/admin/deletefiledata.php on line 19
+[07-Dec-2017 10:47:12 Asia/Calcutta] PHP Warning:  unlink(/home/sadagopa/public_htmlpdfuploads/) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/sadagopa/public_html/sadagopannew/admin/deletefiledata.php on line 19
+[07-Dec-2017 10:47:12 Asia/Calcutta] PHP Notice:  Undefined variable: filename in /home/sadagopa/public_html/sadagopannew/admin/deletefiledata.php on line 20
+[07-Dec-2017 10:47:12 Asia/Calcutta] PHP Warning:  unlink(/home/sadagopa/public_htmlpdfuploads/) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/sadagopa/public_html/sadagopannew/admin/deletefiledata.php on line 20
+[07-Dec-2017 10:47:12 Asia/Calcutta] PHP Notice:  Undefined variable: srno in /home/sadagopa/public_html/sadagopannew/admin/deletefiledata.php on line 22
+[07-Dec-2017 10:47:15 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[07-Dec-2017 10:47:24 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[07-Dec-2017 10:50:55 Asia/Calcutta] PHP Notice:  Use of undefined constant MYSQLI_FETCH_ASSOC - assumed 'MYSQLI_FETCH_ASSOC' in /home/sadagopa/public_html/sadagopannew/admin/deletefiledata.php on line 13
+[07-Dec-2017 10:50:55 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sadagopa/public_html/sadagopannew/admin/deletefiledata.php on line 13
+[07-Dec-2017 10:50:55 Asia/Calcutta] PHP Notice:  Undefined variable: imagefile in /home/sadagopa/public_html/sadagopannew/admin/deletefiledata.php on line 19
+[07-Dec-2017 10:50:55 Asia/Calcutta] PHP Warning:  unlink(/home/sadagopa/public_htmlpdfuploads/) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/sadagopa/public_html/sadagopannew/admin/deletefiledata.php on line 19
+[07-Dec-2017 10:50:55 Asia/Calcutta] PHP Notice:  Undefined variable: filename in /home/sadagopa/public_html/sadagopannew/admin/deletefiledata.php on line 20
+[07-Dec-2017 10:50:55 Asia/Calcutta] PHP Warning:  unlink(/home/sadagopa/public_htmlpdfuploads/) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/sadagopa/public_html/sadagopannew/admin/deletefiledata.php on line 20
+[07-Dec-2017 10:51:02 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[12-Dec-2017 11:12:10 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[12-Dec-2017 11:12:34 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeleteaudiofile.php on line 128
+[12-Dec-2017 11:22:30 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[12-Dec-2017 11:22:59 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeleteaudiofile.php on line 128
+[12-Dec-2017 11:23:04 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[12-Dec-2017 11:24:07 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[12-Dec-2017 20:17:17 Asia/Calcutta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/sadagopa/public_html/sadagopannew/admin/addnewcategory.php on line 39
+[12-Dec-2017 20:17:17 Asia/Calcutta] PHP Notice:  Undefined variable: categoryname in /home/sadagopa/public_html/sadagopannew/admin/addnewcategory.php on line 45
+[12-Dec-2017 20:17:17 Asia/Calcutta] PHP Notice:  Undefined variable: categorytext in /home/sadagopa/public_html/sadagopannew/admin/addnewcategory.php on line 45
+[12-Dec-2017 20:17:46 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeleteaudiofile.php on line 128
+[12-Dec-2017 20:17:55 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[12-Dec-2017 20:18:03 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[12-Dec-2017 20:18:03 Asia/Calcutta] PHP Notice:  Undefined index: devyadesam in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 45
+[12-Dec-2017 20:23:08 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeleteaudiofile.php on line 128
+[12-Dec-2017 20:23:14 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeleteaudiofile.php on line 128
+[12-Dec-2017 20:23:26 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeleteaudiofile.php on line 128
+[12-Dec-2017 20:23:29 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editaudiofiledata.php on line 26
+[12-Dec-2017 20:24:59 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editaudiofiledata.php on line 26
+[12-Dec-2017 20:25:06 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeleteaudiofile.php on line 128
+[12-Dec-2017 20:25:10 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeleteaudiofile.php on line 128
+[12-Dec-2017 20:25:30 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeleteaudiofile.php on line 128
+[12-Dec-2017 20:25:33 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[12-Dec-2017 20:27:50 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[12-Dec-2017 20:28:00 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[12-Dec-2017 20:28:10 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeleteaudiofile.php on line 128
+[12-Dec-2017 20:28:18 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[12-Dec-2017 20:30:58 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[12-Dec-2017 20:31:17 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[12-Dec-2017 20:31:27 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeleteaudiofile.php on line 128
+[12-Dec-2017 20:31:38 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeleteaudiofile.php on line 128
+[12-Dec-2017 20:31:46 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeleteaudiofile.php on line 128
+[12-Dec-2017 20:31:50 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[12-Dec-2017 20:38:47 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeleteaudiofile.php on line 128
+[12-Dec-2017 20:38:53 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[17-Dec-2017 22:26:09 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[17-Dec-2017 22:26:18 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeleteaudiofile.php on line 128
+[17-Dec-2017 22:28:09 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[17-Dec-2017 22:28:56 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[17-Dec-2017 22:28:56 Asia/Calcutta] PHP Notice:  Undefined index: devyadesam in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 45
+[17-Dec-2017 22:29:27 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[18-Dec-2017 08:13:35 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[25-Dec-2017 13:24:51 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[01-Jan-2018 10:56:18 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[01-Jan-2018 10:56:26 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[01-Jan-2018 10:56:26 Asia/Calcutta] PHP Notice:  Undefined index: filetype in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 39
+[01-Jan-2018 10:56:26 Asia/Calcutta] PHP Notice:  Undefined index: devyadesam in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 45
+[01-Jan-2018 11:03:29 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[01-Jan-2018 11:06:58 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[01-Jan-2018 11:06:58 Asia/Calcutta] PHP Notice:  Undefined index: filetype in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 39
+[01-Jan-2018 11:06:58 Asia/Calcutta] PHP Notice:  Undefined index: devyadesam in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 45
+[01-Jan-2018 12:34:31 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[01-Jan-2018 12:34:38 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ';' in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 558
+[01-Jan-2018 12:34:43 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ';' in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 558
+[01-Jan-2018 12:37:01 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ';' in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 558
+[01-Jan-2018 12:37:03 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ';' in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 558
+[01-Jan-2018 12:37:06 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ';' in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 558
+[01-Jan-2018 12:37:07 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[01-Jan-2018 12:37:15 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ';' in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 558
+[01-Jan-2018 12:37:15 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ';' in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 558
+[01-Jan-2018 13:22:30 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[01-Jan-2018 13:22:37 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[01-Jan-2018 13:22:38 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[01-Jan-2018 13:52:07 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[02-Jan-2018 16:15:55 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeleteaudiofile.php on line 128
+[04-Jan-2018 12:57:46 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[04-Jan-2018 12:58:00 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[04-Jan-2018 13:10:47 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[04-Jan-2018 13:10:59 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[04-Jan-2018 14:59:50 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[04-Jan-2018 17:14:14 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeleteaudiofile.php on line 128
+[04-Jan-2018 17:14:19 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[04-Jan-2018 17:18:30 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ']' in /home/sadagopa/public_html/sadagopannew/admin/getnextseries.php on line 12
+[04-Jan-2018 17:29:41 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[04-Jan-2018 17:30:05 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[04-Jan-2018 18:34:58 Asia/Calcutta] PHP Parse error:  syntax error, unexpected T_ECHO in /home/sadagopa/public_html/sadagopannew/admin/getnextseries.php on line 22
+[04-Jan-2018 18:35:05 Asia/Calcutta] PHP Parse error:  syntax error, unexpected T_ECHO in /home/sadagopa/public_html/sadagopannew/admin/getnextseries.php on line 22
+[05-Jan-2018 14:01:48 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[05-Jan-2018 14:02:04 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[05-Jan-2018 14:18:56 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[05-Jan-2018 14:35:53 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[05-Jan-2018 14:36:12 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[05-Jan-2018 14:37:38 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[05-Jan-2018 14:38:44 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[05-Jan-2018 14:40:43 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[05-Jan-2018 14:40:59 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[05-Jan-2018 14:41:13 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeleteaudiofile.php on line 128
+[05-Jan-2018 14:41:17 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editaudiofiledata.php on line 26
+[05-Jan-2018 14:41:27 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeleteaudiofile.php on line 128
+[05-Jan-2018 14:41:32 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editaudiofiledata.php on line 26
+[05-Jan-2018 14:42:16 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[05-Jan-2018 14:42:25 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[05-Jan-2018 14:51:17 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[05-Jan-2018 14:55:06 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[05-Jan-2018 14:56:47 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[05-Jan-2018 14:59:40 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[05-Jan-2018 15:02:28 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[05-Jan-2018 15:03:34 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[05-Jan-2018 15:04:07 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[05-Jan-2018 15:08:40 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[05-Jan-2018 15:22:00 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[08-Jan-2018 14:42:03 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[08-Jan-2018 14:48:11 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[08-Jan-2018 14:52:27 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[08-Jan-2018 15:00:18 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeleteaudiofile.php on line 128
+[08-Jan-2018 15:02:24 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeleteaudiofile.php on line 128
+[08-Jan-2018 15:02:33 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeleteaudiofile.php on line 128
+[08-Jan-2018 15:13:38 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[08-Jan-2018 15:16:37 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[08-Jan-2018 15:16:49 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[08-Jan-2018 15:17:40 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[08-Jan-2018 15:29:31 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[08-Jan-2018 15:29:46 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[08-Jan-2018 15:29:57 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[08-Jan-2018 15:39:41 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[08-Jan-2018 15:39:47 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[08-Jan-2018 15:39:57 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[08-Jan-2018 15:40:10 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[08-Jan-2018 15:40:20 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[08-Jan-2018 15:40:40 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[08-Jan-2018 15:43:22 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[08-Jan-2018 15:43:29 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[08-Jan-2018 15:43:33 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[08-Jan-2018 15:43:57 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[08-Jan-2018 15:44:08 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[08-Jan-2018 15:55:33 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[08-Jan-2018 18:00:22 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[11-Jan-2018 12:18:50 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[11-Jan-2018 12:19:06 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[11-Jan-2018 12:19:27 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[11-Jan-2018 12:19:49 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[11-Jan-2018 12:20:00 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[11-Jan-2018 12:20:10 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[11-Jan-2018 12:20:18 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[11-Jan-2018 12:20:32 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[11-Jan-2018 12:27:15 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[11-Jan-2018 12:27:34 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeletefile.php on line 136
+[11-Jan-2018 12:27:50 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[11-Jan-2018 12:28:03 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[11-Jan-2018 12:30:47 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[11-Jan-2018 12:30:58 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[11-Jan-2018 12:31:13 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editfiledata.php on line 26
+[11-Jan-2018 12:31:32 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeleteaudiofile.php on line 128
+[11-Jan-2018 12:32:17 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editaudiofiledata.php on line 26
+[11-Jan-2018 12:32:37 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeleteaudiofile.php on line 128
+[11-Jan-2018 12:32:44 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editaudiofiledata.php on line 26
+[11-Jan-2018 12:32:55 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editaudiofiledata.php on line 26
+[11-Jan-2018 12:36:46 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editaudiofiledata.php on line 26
+[11-Jan-2018 12:37:26 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editaudiofiledata.php on line 26
+[11-Jan-2018 12:38:31 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editaudiofiledata.php on line 26
+[11-Jan-2018 12:42:01 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editaudiofiledata.php on line 26
+[11-Jan-2018 12:42:07 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editaudiofiledata.php on line 26
+[11-Jan-2018 12:42:19 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeleteaudiofile.php on line 128
+[11-Jan-2018 12:42:27 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editaudiofiledata.php on line 26
+[11-Jan-2018 12:42:35 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editaudiofiledata.php on line 26
+[11-Jan-2018 13:05:47 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeleteaudiofile.php on line 128
+[11-Jan-2018 13:05:53 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editaudiofiledata.php on line 26
+[11-Jan-2018 13:06:01 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editaudiofiledata.php on line 26
+[11-Jan-2018 13:06:35 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeleteaudiofile.php on line 128
+[11-Jan-2018 13:06:40 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editaudiofiledata.php on line 26
+[11-Jan-2018 13:06:47 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editaudiofiledata.php on line 26
+[11-Jan-2018 13:07:28 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeleteaudiofile.php on line 128
+[11-Jan-2018 13:07:36 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editaudiofiledata.php on line 26
+[11-Jan-2018 13:07:42 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editaudiofiledata.php on line 26
+[11-Jan-2018 13:08:08 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeleteaudiofile.php on line 128
+[11-Jan-2018 13:08:13 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editaudiofiledata.php on line 26
+[11-Jan-2018 13:08:21 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editaudiofiledata.php on line 26
+[11-Jan-2018 13:08:30 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeleteaudiofile.php on line 128
+[11-Jan-2018 13:08:35 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editaudiofiledata.php on line 26
+[11-Jan-2018 13:11:03 Asia/Calcutta] PHP Notice:  Undefined index: userlogin in /home/sadagopa/public_html/sadagopannew/admin/editdeleteaudiofile.php on line 128
+[11-Jan-2018 13:11:07 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in /home/sadagopa/public_html/sadagopannew/admin/editaudiofiledata.php on line 26
+[31-Jan-2018 07:06:41 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[31-Jan-2018 07:06:43 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[08-Feb-2018 12:15:17 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[08-Feb-2018 12:15:17 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[12-Feb-2018 05:40:39 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[12-Feb-2018 05:40:39 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[12-Feb-2018 05:40:45 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[12-Feb-2018 05:40:45 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[12-Feb-2018 05:41:16 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[12-Feb-2018 05:41:22 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[12-Feb-2018 05:41:27 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[12-Feb-2018 05:41:42 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[12-Feb-2018 05:41:52 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[12-Feb-2018 05:41:55 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[12-Feb-2018 05:41:57 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[12-Feb-2018 05:41:59 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[12-Feb-2018 05:42:02 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[12-Feb-2018 05:42:04 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[12-Feb-2018 07:12:27 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[12-Feb-2018 07:12:36 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[12-Feb-2018 07:15:50 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[12-Feb-2018 07:15:50 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[12-Feb-2018 07:16:02 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[12-Feb-2018 07:16:02 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[12-Feb-2018 07:16:27 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[12-Feb-2018 07:16:27 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[12-Feb-2018 07:17:07 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[12-Feb-2018 07:18:31 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[12-Feb-2018 07:18:31 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[13-Feb-2018 02:52:37 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[13-Feb-2018 02:52:37 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[15-Feb-2018 06:53:08 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[15-Feb-2018 06:53:08 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[15-Feb-2018 06:53:14 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[15-Feb-2018 06:53:14 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[15-Feb-2018 06:53:36 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[15-Feb-2018 06:53:40 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[15-Feb-2018 06:54:47 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[19-Feb-2018 04:41:42 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[19-Feb-2018 04:42:10 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[19-Feb-2018 04:46:06 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[20-Feb-2018 01:04:37 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[20-Feb-2018 01:04:47 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[20-Feb-2018 01:09:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sadagopa/public_html/sadagopannew/db/config1.php:1) in /home/sadagopa/public_html/sadagopannew/admin/deleteremarks.php on line 15
+[20-Feb-2018 01:10:46 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[20-Feb-2018 01:13:18 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[20-Feb-2018 05:37:44 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[20-Feb-2018 05:37:54 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[26-Feb-2018 17:45:33 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[26-Feb-2018 17:45:33 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[28-Feb-2018 07:22:20 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[28-Feb-2018 07:22:20 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[02-Mar-2018 15:21:47 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[02-Mar-2018 15:21:47 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[02-Mar-2018 15:22:41 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[02-Mar-2018 15:22:41 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[02-Mar-2018 15:23:47 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[02-Mar-2018 15:23:58 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[03-Mar-2018 15:19:59 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[03-Mar-2018 15:19:59 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[04-Mar-2018 13:01:41 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[04-Mar-2018 13:01:41 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[04-Mar-2018 13:01:58 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[04-Mar-2018 13:01:58 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[04-Mar-2018 13:02:39 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[04-Mar-2018 13:02:45 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[04-Mar-2018 17:14:15 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[04-Mar-2018 17:14:24 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[04-Mar-2018 17:24:06 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[04-Mar-2018 17:24:06 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[04-Mar-2018 17:24:21 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[04-Mar-2018 17:24:21 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[04-Mar-2018 17:25:19 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[04-Mar-2018 17:25:26 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[04-Mar-2018 17:27:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sadagopa/public_html/sadagopannew/db/config1.php:1) in /home/sadagopa/public_html/sadagopannew/admin/approveremarks.php on line 15
+[04-Mar-2018 17:40:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sadagopa/public_html/sadagopannew/db/config1.php:1) in /home/sadagopa/public_html/sadagopannew/admin/approveremarks.php on line 15
+[04-Mar-2018 17:52:37 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[04-Mar-2018 18:13:52 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[04-Mar-2018 18:14:00 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[07-Mar-2018 10:48:22 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[07-Mar-2018 10:48:22 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[07-Mar-2018 10:48:48 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[07-Mar-2018 10:48:48 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[07-Mar-2018 13:42:47 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[07-Mar-2018 13:42:47 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[07-Mar-2018 13:44:56 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[07-Mar-2018 13:44:56 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[07-Mar-2018 13:46:09 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[07-Mar-2018 13:47:08 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[10-Mar-2018 01:26:51 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[10-Mar-2018 01:26:51 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[10-Mar-2018 01:27:46 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[10-Mar-2018 01:27:46 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[10-Mar-2018 07:39:14 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[10-Mar-2018 07:39:14 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[10-Mar-2018 07:40:44 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[10-Mar-2018 07:40:44 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[10-Mar-2018 07:41:45 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[10-Mar-2018 07:41:45 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[10-Mar-2018 07:42:16 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[10-Mar-2018 07:42:16 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[10-Mar-2018 07:46:20 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[11-Mar-2018 10:22:44 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[11-Mar-2018 10:22:44 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[11-Mar-2018 10:25:45 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[11-Mar-2018 10:25:45 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 21
+[12-Mar-2018 02:25:54 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 22
+[12-Mar-2018 02:25:54 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 22
+[12-Mar-2018 02:26:11 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 22
+[12-Mar-2018 02:26:11 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 22
+[12-Mar-2018 02:34:25 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 22
+[12-Mar-2018 02:34:27 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 22
+[12-Mar-2018 02:39:09 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 22
+[12-Mar-2018 03:10:19 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 22
+[12-Mar-2018 03:10:19 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 22
+[12-Mar-2018 03:12:04 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 22
+[12-Mar-2018 03:16:58 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 22
+[12-Mar-2018 03:17:07 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 22
+[12-Mar-2018 03:17:22 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 22
+[12-Mar-2018 03:20:09 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 22
+[12-Mar-2018 03:20:27 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 22
+[12-Mar-2018 03:23:27 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 22
+[12-Mar-2018 03:23:27 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 22
+[12-Mar-2018 03:23:50 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 22
+[12-Mar-2018 03:23:50 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 22
+[12-Mar-2018 03:25:23 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 22
+[12-Mar-2018 03:25:45 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 22
+[12-Mar-2018 03:29:06 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 22
+[12-Mar-2018 03:29:06 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 22
+[12-Mar-2018 03:29:25 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 22
+[12-Mar-2018 03:29:25 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 22
+[12-Mar-2018 03:29:44 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 22
+[12-Mar-2018 03:29:44 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 22
+[12-Mar-2018 03:30:08 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 22
+[12-Mar-2018 03:30:08 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 22
+[12-Mar-2018 03:31:55 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 22
+[12-Mar-2018 03:31:55 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 22
+[12-Mar-2018 03:32:02 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 22
+[12-Mar-2018 03:32:02 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sadagopa/public_html/sadagopannew/admin/index.php:20) in /home/sadagopa/public_html/sadagopannew/admin/index.php on line 22
